@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Koushikk</h1>
-<h3 align="center">Final Year B.Tech Computer Science Engineering Student | Aspiring Software Developer</h3>
+<h1 align="center">Hi, I'm Koushik</h1>
+<h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
   Passionate about <b>Web Development</b>, <b>Machine Learning</b>, and <b>Problem Solving</b>.<br>
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **B.Tech CSE Student**
+- 🎓 CSE Graduate
 - 💻 Interested in **Software Development, MERN Stack, and Machine Learning**
 - 🌱 Currently learning **Advanced MERN Development, ML Applications, and DSA**
 - 📌 Built projects in **Web Development** and **Artificial Intelligence**
