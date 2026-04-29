@@ -15,16 +15,14 @@
 
 ---
 
-### 🚀 Professional Summary
-
 I am a **Computer Science & Engineering graduate** driven by a passion for building robust, scalable web architectures and solving complex algorithmic challenges. With a strong foundation in the **MERN stack** and **C++**, I bridge the gap between efficient backend logic and intuitive frontend experiences. 
 
 I am particularly interested in leveraging software engineering for **High-Performance Systems** and **Defense-sector research**, focusing on security, efficiency, and reliability.
 
-- 🎓 **B.Tech in Computer Science & Engineering** – Mahatma Gandhi University.
-- 💡 **Full Stack Intern** – Experienced in building production-ready UIs and server-side logic.
-- 🧠 **Active Problem Solver** – Consistently tackling Data Structures & Algorithms on LeetCode/HackerRank.
-- 🛡️ **Defense Tech Enthusiast** – Exploring the intersection of simulation, robotics, and secure systems.
+-  B.Tech in Computer Science & Engineering – Mahatma Gandhi University.
+-  Full Stack Intern – Experienced in building production-ready UIs and server-side logic.
+-  Active Problem Solver – Consistently tackling Data Structures & Algorithms on LeetCode/HackerRank.
+-  Defense Tech Enthusiast – Exploring the intersection of simulation, robotics, and secure systems.
 
 ---
 
