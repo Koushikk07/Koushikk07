@@ -22,7 +22,7 @@ I am particularly interested in leveraging software engineering for **High-Perfo
 -  B.Tech in Computer Science & Engineering – Mahatma Gandhi University.
 -  Full Stack Intern – Experienced in building production-ready UIs and server-side logic.
 -  Active Problem Solver – Consistently tackling Data Structures & Algorithms on LeetCode/HackerRank.
--  Defense Tech Enthusiast – Exploring the intersection of simulation, robotics, and secure systems.
+
 
 ---
 
