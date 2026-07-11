@@ -1,6 +1,6 @@
 <h1 align="center">Gudapur Koushik</h1>
 <p align="center">
-  <b>Software Engineer | Full Stack Developer</b>
+  <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
