@@ -1,80 +1,71 @@
 <h1 align="center">Gudapur Koushik</h1>
-<p align="center">
-  <b>Full Stack Developer</b>
-</p>
+<p align="center"><b>Full Stack Developer | C++ & DSA</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gudapur-koushik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/koushikk07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koushikk07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/gudapurkoushik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gudapurkoushik52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/koushikk_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
-I am a **Computer Science & Engineering graduate** driven by a passion for building robust, scalable web architectures and solving complex algorithmic challenges. With a strong foundation in the **MERN stack** and **C++**, I bridge the gap between efficient backend logic and intuitive frontend experiences. 
+CSE graduate (2026) building full-stack web applications with JavaScript, Node.js and SQL, and practicing data structures and algorithms in C++ every day.
 
-I am particularly interested in leveraging software engineering for **High-Performance Systems** and **Defense-sector research**, focusing on security, efficiency, and reliability.
-
--  B.Tech in Computer Science & Engineering – Mahatma Gandhi University.
--  Full Stack Intern – Experienced in building production-ready UIs and server-side logic.
--  Active Problem Solver – Consistently tackling Data Structures & Algorithms on LeetCode/HackerRank.
-
+- 🎓 B.Tech in Computer Science & Engineering, Mahatma Gandhi University (2022 to 2026)
+- 💼 MERN Stack Intern, Edunet Foundation in collaboration with EY GDS (Jan to Mar 2025)
+- 🧩 347 problems solved on LeetCode (contest rating 1,487, 68-day max streak), 500+ across LeetCode and HackerRank
+- 📍 Based in Telangana, open to relocation
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++` `JavaScript (ES6+)` `Python` `Java` `HTML5` `CSS3` |
-| **Frontend** | `React.js` `Redux` `Bootstrap` `Tailwind CSS` |
+| **Languages** | `C++` `JavaScript` `Python` `HTML5` `CSS3` |
+| **Frontend** | `React.js` `Bootstrap` `Tailwind CSS` |
 | **Backend** | `Node.js` `Express.js` `REST APIs` |
-| **Databases** | `MongoDB` `MySQL` |
-| **DevOps & Tools** | `Git` `GitHub` `VS Code` `Linux` `Postman` |
+| **Databases** | `MySQL` `MongoDB` |
+| **Tools** | `Git` `GitHub` `Postman` `VS Code` |
 
 ---
 
-### 📌 High-Impact Projects
+### 📌 Projects
 
-#### 🏨 Hostel Management System (MERN)
-*A comprehensive digital solution for institutional housing administration.*
-- **Challenge:** Transitioned from a public file structure to a **Views-based Admin Architecture** to fix session vulnerabilities and logout persistence.
-- **Impact:** Optimized room allocation logic and implemented secure JWT authentication for administrative control.
-- **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`.
+#### 🏨 Hostel Management System
+Web app for managing hostel rooms and student records, with admin and student logins.
+- Built the admin side with login method: sessions / JWT and what the admin can do
+- Handles room allocation, student records, room managements, services using MySQL tables
+- **Tech:** HTML, CSS, JavaScript, Node.js, MySQL
+- 🔗 https://github.com/Koushikk07/Hostel_Managment_System
 
 #### 🤖 Learning Style Identification (ML)
-*An educational tool utilizing classification algorithms to personalize student learning paths.*
-- **Key Work:** Preprocessed academic datasets to train classification models with high accuracy.
-- **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`.
+Classifies student learning styles using semi-supervised self-taught labeling.
+- Cleaned and preprocessed the dataset, then trained and compared [models used]
+- Reached [X]% accuracy on [dataset name]
+- **Tech:** Python, Scikit-Learn, Pandas
+- 🔗 https://github.com/Koushikk07/Learning-Style-Identification-using-semi-supervised-self-taught-labeling
 
-#### 🔗 Blockchain-Integrated Web Concept
-*Top 25 Participant – Chainlink Hackathon (2025)*
-- Recognized for architecting a decentralized approach to standard web application data integrity.
+#### 🍳 Recipe Sharing Platform
+React app for browsing, searching and filtering recipes.
+- **Tech:** JavaScript, React, CSS
+- 🔗 https://github.com/Koushikk07/recipe-sharing-platform
 
 ---
 
-### 📊 Engineering Metrics
+### 🏆 Achievements
+- LeetCode 50 Days and 100 Days Badges (2026)
+- Participant, Chainlink Hackathon: built a blockchain-integrated web concept and earned community rewards
+- Participant, National Summer Hackathon 2026 (SkillStation)
+- Meta Front-End Developer Capstone (Coursera)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=koushikk07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikk07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### 🌱 Currently
+- Learning graphs and dynamic programming in C++
+- Rebuilding the Hostel Management System with React, a REST API and deployment
+- Preparing for software engineer roles
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=koushikk07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 Current Focus
-- **Deepening DSA Proficiency:** Mastering Advanced Graph Theory and Dynamic Programming.
-- **Defense Tech Research:** Exploring simulation environments and system security.
-- **Open Source:** Contributing to projects that prioritize clean code and performance optimization.
-
-<p align="center">
-  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 </p>
