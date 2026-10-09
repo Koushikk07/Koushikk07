@@ -37,7 +37,7 @@ Web app for managing hostel rooms and student records, with admin and student lo
 - Built the admin side with login method: sessions / JWT and what the admin can do
 - Handles room allocation, student records, room managements, services using MySQL tables
 - **Tech:** HTML, CSS, JavaScript, Node.js, MySQL
-- 🔗 https://github.com/Koushikk07/Hostel_Managment_System
+- 🔗 https://github.com/Koushikk07/Hostel-Managment-System
 
 #### 🤖 Learning Style Identification (ML)
 Classifies student learning styles using semi-supervised self-taught labeling.
