@@ -33,16 +33,17 @@ CSE graduate (2026) building full-stack web applications with JavaScript, Node.j
 ### 📌 Projects
 
 #### 🏨 Hostel Management System
-Web app for managing hostel rooms and student records, with admin and student logins.
-- Built the admin side with login method: sessions / JWT and what the admin can do
-- Handles room allocation, student records, room managements, services using MySQL tables
-- **Tech:** HTML, CSS, JavaScript, Node.js, MySQL
+Web app for managing hostel admissions, rooms, fees and complaints, with separate admin and student logins.
+- Built a Node.js REST API with a 12-table MySQL database
+- Admin can approve or reject applications, add rooms, allocate rooms, track room status and manage fees
+- JWT and session-based authentication, bcrypt password hashing, and account lockout after repeated failed logins
+- Nodemailer for email notifications
+- **Tech:** HTML, CSS, JavaScript, Node.js, Express, MySQL
 - 🔗 https://github.com/Koushikk07/Hostel-Managment-System
 
 #### 🤖 Learning Style Identification (ML)
-Classifies student learning styles using semi-supervised self-taught labeling.
-- Cleaned and preprocessed the dataset, then trained and compared [models used]
-- Reached [X]% accuracy on [dataset name]
+Predicts student learning styles using semi-supervised self-training with an SVM classifier.
+- Trained and evaluated the model on the data_fs1.csv dataset
 - **Tech:** Python, Scikit-Learn, Pandas
 - 🔗 https://github.com/Koushikk07/Learning-Style-Identification-using-semi-supervised-self-taught-labeling
 
