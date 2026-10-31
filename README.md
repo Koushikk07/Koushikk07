@@ -22,7 +22,7 @@ CSE graduate (2026) building full-stack web applications with JavaScript, Node.j
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++` `JavaScript` `Python` |
+| **Languages** | `C++` `JavaScript` `Java` |
 | **Frontend** | `HTML5` `CSS3` `React.js` `Bootstrap` `Tailwind CSS` |
 | **Backend** | `Node.js` `Express.js` `REST APIs` |
 | **Databases** | `MySQL` `MongoDB` |
