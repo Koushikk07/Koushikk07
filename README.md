@@ -72,13 +72,6 @@ React app for browsing, searching and filtering recipes.
 - Participant, National Summer Hackathon 2026 (SkillStation)
 - Meta Front-End Developer Capstone (Coursera)
 
----
-
-### 🌱 Currently
-- Extending Backend Ledger with transaction history and summary endpoints using aggregation
-- Learning TypeScript and planning a React frontend for the Ledger API
-- Solving more Medium-level problems in C++ (graphs and dynamic programming)
-- Preparing for software developer roles
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=koushikk07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
