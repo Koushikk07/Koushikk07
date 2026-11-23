@@ -13,7 +13,7 @@ CSE graduate (2026) building full-stack and backend applications with JavaScript
 
 - 🎓 B.Tech in Computer Science & Engineering, Mahatma Gandhi University (2022 to 2026)
 - 💼 MERN Stack Intern, Edunet Foundation in collaboration with EY GDS (Jan to Mar 2025)
-- 🧩 356 problems solved on LeetCode (contest rating 1,487, 68-day max streak), 500+ across LeetCode and HackerRank
+- 🧩 388 problems solved on LeetCode (contest rating 1,487, 68-day max streak), 500+ across LeetCode and HackerRank
 - 📍 Based in Telangana, open to relocation
 - 🔎 Open to Software Developer and Full Stack roles
 
